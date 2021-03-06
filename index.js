@@ -54,25 +54,3 @@ inquirer
             return console.log(err);
         })
     })
-
-
-
-
-
-
-
-    // // TODO: Create a function to write README file
-    // function writeToFile(data) {
-    //     fs.writeFile('test.md', generateREADME(data),
-    //     (err) => err ? console.error(err) : console.log('Your README has been created!'))    
-    // }
-    
-    // // TODO: Create a function to initialize app
-    // function init() {
-    //     inquirer
-    //     .prompt()
-    //     .then()
-    // }
-    
-    // // Function call to initialize app
-    // init();

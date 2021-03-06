@@ -1,4 +1,4 @@
-# Fun Project
+# somethign
 
   ## Table Of Contents
   - [Description](#description)
@@ -9,22 +9,22 @@
   - [Questions](#questions)
 
   ## Description
-  It's a Fun Project
+  seomthing
 
   ## Usage
-  How ever you like!
+  s
 
   ## Installation
-  No installation required
+  meothnidjikj
 
   ## Contributors
-  Only me
+  asjkjdfgjk\w
 
   ## License
-  MIT
+  ikdfl'ads
 
   ## Questions
 
-  For any questions my email: email@address.com
-  Also, my GitHub account: [GitHub](https://github.com/erenozgur98)
+  For any questions my email: adsads
+  Also, my GitHub account: [GitHub](https://github.com/smething)
 
