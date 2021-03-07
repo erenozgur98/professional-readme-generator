@@ -38,19 +38,30 @@ inquirer
         name: 'contributor'
     },
     {
-        type: 'input',
+        type: 'list',
         message: 'What license would you like to use?',
-        name: 'license'
+        name: 'license',
+        choices: [
+            'MIT'
+        ]
     },
     {
         type: 'input',
         message: 'What is your email address?',
         name: 'email'
+    },
+    {
+        type: 'input',
+        message: 'There is any test for this project?',
+        name: 'test'
     }
     ])
     .then((response) => {
-        fs.writeFile('test.md', generateREADME(response), (err) => {
-            if (err) 
+        fs.writeFile('NEW README.md', generateREADME(response), (err) => {
+            if (err) {
             return console.log(err);
+            } else {
+                console.log('Your file has been successfully created!')
+            }
         })
     })
