@@ -11,9 +11,11 @@
 
 This is a README generator for your projects, this will help you create README faster so you don't have to spend more time on it.
 
+The screen shot of the generated README;
+
+![ss](ss.jpg)
+
 ---
-
-
 
 ## Requirements
 ---
